@@ -97,6 +97,16 @@ li {
 a {
   text-decoration: none;
 }
+
+.video-section{
+  display: flex;
+  margin: 3rem 11rem;
+  gap: 5rem;
+}
+.video-section .video{
+  outline: 5px solid #2ba854;
+  outline-offset: 5px;
+}
 /* section one styles */
 
 .section-one {
