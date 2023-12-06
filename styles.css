@@ -61,6 +61,7 @@ li {
   text-decoration: none;
   color: #000080;
   font-weight: 200;
+  margin-left: 5px;
 }
 .topnav a:hover {
   background-color: #ddd;
