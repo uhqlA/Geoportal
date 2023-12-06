@@ -100,7 +100,7 @@ a {
 
 .video-section{
   display: flex;
-  margin: 3rem 11rem;
+  margin: 5rem 11rem;
   gap: 5rem;
 }
 .video-section .video{
@@ -123,7 +123,8 @@ a {
 .container {
   /* background: linear-gradient(45deg, blueviolet, lightgreen); */
   padding: 15px 15%;
-  padding-bottom: 100px;
+  padding-bottom: 20px;
+  margin-top: 100px;
 }
 .container .heading {
   /* text-align: center; */
@@ -139,8 +140,8 @@ a {
 
 .container .box-container {
   display: grid;
-  /* grid-template-columns: repeat(auto-fit, minmax(380px, 1fr)); */
-  /* grid-template-columns: repeat( 3, 1fr); */
+  /*grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));*/
+  grid-template-columns: repeat( 3, 1fr); 
   gap: 25px;
   cursor: pointer;
 }
