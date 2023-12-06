@@ -73,11 +73,12 @@ li {
   color: #fff;
   font-weight: 500;
   cursor: pointer;
-  cursor: pointer;
 }
 .bottom-navbar a:hover {
-  background-color: #220909;
-  color: black;
+  background-color: black;
+  color: #fff;
+  padding: 5px;
+  border-radius: 15px;
 }
 
 .content {
